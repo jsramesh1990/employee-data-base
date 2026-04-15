@@ -102,7 +102,7 @@ void searchEmployee(Employee *list, int count) {
     printf("Employee not found!\n");
 }
 
-// Save data to file
+// Save data to file & add photo also for more clear entry capture featues
 void saveToFile(Employee *list, int count) {
     FILE *f = fopen("employees.txt", "w");
     if (!f) {
