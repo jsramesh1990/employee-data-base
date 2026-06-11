@@ -1,4 +1,4 @@
-# Mini Employee Management System
+# Employee Management System
 
 ![C Language](https://img.shields.io/badge/C-99%2F11%2F17-blue?style=for-the-badge&logo=c)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
